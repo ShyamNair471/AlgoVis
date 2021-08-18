@@ -1,4 +1,4 @@
-# ALVIS
+# AlgoVis
 ## An algorithm visualiser
 <hr>
 
